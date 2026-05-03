@@ -16,6 +16,8 @@ The environment was hosted on **Vultr** Cloud Infrastructure to simulate enterpr
 * **Ticketing System:** osTicket.
 
 <img width="1000" alt="SOC Architecture" src="https://github.com/user-attachments/assets/8a69a67a-ad33-495b-a963-984b308c29b6" />
+<img width="1000" alt="Attacl dia" src="https://github.com/user-attachments/assets/dae83160-ba9e-4009-87f7-da8d5c108e55" />
+
 
 ---
 
@@ -84,7 +86,7 @@ Investigated host and network telemetry in Elastic Security.
 
 <img width="1000" alt="Mythic Detection" src="https://github.com/user-attachments/assets/96e4197b-f74c-4268-98e9-bcb9b83d75b0" />
 
-<img width="1000" alt="Process Investigation" src="https://github.com/user-attachments/assets/af531213-7538-427d-928e-d41eedca8fc8" />
+
 
 * Investigated Windows Defender logs indicating tampering and malware detection.
 
