@@ -18,8 +18,8 @@ The environment was hosted on **Vultr** Cloud Infrastructure to simulate enterpr
 <img width="1000" alt="SOC Architecture" src="https://github.com/user-attachments/assets/8a69a67a-ad33-495b-a963-984b308c29b6" />
 
 
-### Attack Flow
-<img width="1000" alt="Attacl dia" src="https://github.com/user-attachments/assets/dae83160-ba9e-4009-87f7-da8d5c108e55" />
+* Attack Flow
+<img width="1000" alt="Attack Diagram" src="https://github.com/user-attachments/assets/dae83160-ba9e-4009-87f7-da8d5c108e55" />
 
 
 ---
