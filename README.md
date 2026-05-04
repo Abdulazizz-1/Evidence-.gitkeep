@@ -1,12 +1,12 @@
-# 🛡️ Cloud-Native SOC Operations: Detection & IR Lab
+#  Cloud-Native SOC Operations: Detection & IR Lab
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the deployment of a fully functional Security Operations Center (SOC) environment in a cloud infrastructure. The objective was to engineer a pipeline for telemetry ingestion, design custom detection logic for brute-force attacks, and simulate a real-world Command and Control (C2) attack to validate the defense stack's effectiveness.
 
 ---
 
-## 🏗️ Architecture & Lab Infrastructure
+##  Architecture & Lab Infrastructure
 
 The environment was hosted on **Vultr** Cloud Infrastructure to simulate enterprise networking and attacker activity:
 
@@ -111,6 +111,6 @@ Managed the incident response lifecycle using an internal ticketing system.
 
 ---
 
-## 📂 Evidence Archive
+##  Evidence Archive
 
 All 26 screenshots and detailed logs are stored in the `Evidence` directory for verification.
