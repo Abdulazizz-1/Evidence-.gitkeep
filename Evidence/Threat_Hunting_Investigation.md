@@ -26,7 +26,7 @@ This document outlines the chronological timeline, Indicators of Compromise (IoC
 
 ---
 
-## 🎯 Elastic KQL Detection Queries
+##  Elastic KQL Detection Queries
 
 ### 1. Failed Authentication & Brute-Force
 **Linux SSH Failed Attempts:**
