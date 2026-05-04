@@ -94,7 +94,7 @@ Investigated host and network telemetry in Elastic Security.
 * Investigated Windows Defender logs indicating tampering and malware detection.
 
 <img width="1000" alt="Defender Logs" src="https://github.com/user-attachments/assets/68e73371-2fcd-4785-890d-f7d3362e4b94" />
-
+Event ID 1 for Process Creation
 <img width="1000" alt="Malware Detection" src="https://github.com/user-attachments/assets/0d8dcac8-b787-413e-a941-8cb926f01a0f" />
 
 <img width="1000" alt="Malware Analysis" src="https://github.com/user-attachments/assets/4fb6ae44-6281-47af-80b2-64679f5abafb" />
