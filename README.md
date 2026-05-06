@@ -3,6 +3,7 @@
 ##  Project Overview
 
 This project demonstrates the deployment of a fully functional Security Operations Center (SOC) environment in a cloud infrastructure. The objective was to engineer a pipeline for telemetry ingestion, design custom detection logic for brute-force attacks, and simulate a real-world Command and Control (C2) attack to validate the defense stack's effectiveness.
+> ** For a deep dive into the Attack Timeline, IoCs, and custom KQL Detection Logic, please check the [Threat Hunting & Investigation Report](./Threat_Hunting_Investigation.md).**
 
 ---
 
